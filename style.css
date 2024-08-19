@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #548687;
+    text-align: center;
+}
+.container{
+    height: 70vh;
+}
+
+.game{
+    height:60vmin;
+}
+
+.box{
+    height:10px ;
+}
